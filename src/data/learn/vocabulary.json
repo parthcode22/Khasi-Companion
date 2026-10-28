@@ -1,0 +1,351 @@
+[
+  {
+    "id": "cat-animals",
+    "categoryKhasi": "Ki Mrad",
+    "categoryEnglish": "Animals",
+    "iconName": "PawPrint",
+    "items": [
+      {
+        "id": "animal-01",
+        "word": "ksew",
+        "wordPlaceholder": "ksew",
+        "englishMeaning": "Dog",
+        "englishMeaningPlaceholder": "Dog",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "animal-02",
+        "word": "pusi",
+        "wordPlaceholder": "pusi",
+        "englishMeaning": "Cat",
+        "englishMeaningPlaceholder": "Cat",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "animal-03",
+        "word": "sim",
+        "wordPlaceholder": "sim",
+        "englishMeaning": "Bird",
+        "englishMeaningPlaceholder": "Bird",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "animal-04",
+        "word": "dohkha",
+        "wordPlaceholder": "dohkha",
+        "englishMeaning": "Fish",
+        "englishMeaningPlaceholder": "Fish",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "animal-05",
+        "word": "sniang",
+        "wordPlaceholder": "sniang",
+        "englishMeaning": "Pig",
+        "englishMeaningPlaceholder": "Pig",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "animal-06",
+        "word": "khla",
+        "wordPlaceholder": "khla",
+        "englishMeaning": "Tiger",
+        "englishMeaningPlaceholder": "Tiger",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      }
+    ]
+  },
+  {
+    "id": "cat-family",
+    "categoryKhasi": "Ka Ïing Ka Sem",
+    "categoryEnglish": "Family",
+    "iconName": "Users",
+    "items": [
+      {
+        "id": "fam-01",
+        "word": "kmie",
+        "wordPlaceholder": "kmie",
+        "englishMeaning": "Mother",
+        "englishMeaningPlaceholder": "Mother",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "fam-02",
+        "word": "kpa",
+        "wordPlaceholder": "kpa",
+        "englishMeaning": "Father",
+        "englishMeaningPlaceholder": "Father",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "fam-03",
+        "word": "khun",
+        "wordPlaceholder": "khun",
+        "englishMeaning": "Child",
+        "englishMeaningPlaceholder": "Child",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "fam-04",
+        "word": "kong",
+        "wordPlaceholder": "kong",
+        "englishMeaning": "Elder sister / Miss (respectful title for a woman)",
+        "englishMeaningPlaceholder": "Elder sister / Miss (respectful title for a woman)",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "fam-05",
+        "word": "bah",
+        "wordPlaceholder": "bah",
+        "englishMeaning": "Elder brother / Mr (respectful title for a man)",
+        "englishMeaningPlaceholder": "Elder brother / Mr (respectful title for a man)",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      }
+    ]
+  },
+  {
+    "id": "cat-nature",
+    "categoryKhasi": "Ka Mariang",
+    "categoryEnglish": "Nature",
+    "iconName": "Trees",
+    "items": [
+      {
+        "id": "nat-01",
+        "word": "um",
+        "wordPlaceholder": "um",
+        "englishMeaning": "Water",
+        "englishMeaningPlaceholder": "Water",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-02",
+        "word": "ding",
+        "wordPlaceholder": "ding",
+        "englishMeaning": "Fire",
+        "englishMeaningPlaceholder": "Fire",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-03",
+        "word": "sngi",
+        "wordPlaceholder": "sngi",
+        "englishMeaning": "Sun / day",
+        "englishMeaningPlaceholder": "Sun / day",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-04",
+        "word": "bnai",
+        "wordPlaceholder": "bnai",
+        "englishMeaning": "Moon / month",
+        "englishMeaningPlaceholder": "Moon / month",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-05",
+        "word": "dieng",
+        "wordPlaceholder": "dieng",
+        "englishMeaning": "Tree",
+        "englishMeaningPlaceholder": "Tree",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-06",
+        "word": "lum",
+        "wordPlaceholder": "lum",
+        "englishMeaning": "Hill",
+        "englishMeaningPlaceholder": "Hill",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-07",
+        "word": "wah",
+        "wordPlaceholder": "wah",
+        "englishMeaning": "River",
+        "englishMeaningPlaceholder": "River",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-08",
+        "word": "bneng",
+        "wordPlaceholder": "bneng",
+        "englishMeaning": "Sky",
+        "englishMeaningPlaceholder": "Sky",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-09",
+        "word": "tiew",
+        "wordPlaceholder": "tiew",
+        "englishMeaning": "Flower",
+        "englishMeaningPlaceholder": "Flower",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "nat-10",
+        "word": "khyndew",
+        "wordPlaceholder": "khyndew",
+        "englishMeaning": "Earth / soil",
+        "englishMeaningPlaceholder": "Earth / soil",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      }
+    ]
+  },
+  {
+    "id": "cat-numbers",
+    "categoryKhasi": "Ki Jingkhein",
+    "categoryEnglish": "Numbers",
+    "iconName": "Binary",
+    "items": [
+      {
+        "id": "num-01",
+        "word": "wei",
+        "wordPlaceholder": "wei",
+        "englishMeaning": "1",
+        "englishMeaningPlaceholder": "1",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-02",
+        "word": "ar",
+        "wordPlaceholder": "ar",
+        "englishMeaning": "2",
+        "englishMeaningPlaceholder": "2",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-03",
+        "word": "lai",
+        "wordPlaceholder": "lai",
+        "englishMeaning": "3",
+        "englishMeaningPlaceholder": "3",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-04",
+        "word": "saw",
+        "wordPlaceholder": "saw",
+        "englishMeaning": "4",
+        "englishMeaningPlaceholder": "4",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-05",
+        "word": "san",
+        "wordPlaceholder": "san",
+        "englishMeaning": "5",
+        "englishMeaningPlaceholder": "5",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-06",
+        "word": "hynriew",
+        "wordPlaceholder": "hynriew",
+        "englishMeaning": "6",
+        "englishMeaningPlaceholder": "6",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-07",
+        "word": "hynñiew",
+        "wordPlaceholder": "hynñiew",
+        "englishMeaning": "7",
+        "englishMeaningPlaceholder": "7",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-08",
+        "word": "phra",
+        "wordPlaceholder": "phra",
+        "englishMeaning": "8",
+        "englishMeaningPlaceholder": "8",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-09",
+        "word": "khyndai",
+        "wordPlaceholder": "khyndai",
+        "englishMeaning": "9",
+        "englishMeaningPlaceholder": "9",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      },
+      {
+        "id": "num-10",
+        "word": "shiphew",
+        "wordPlaceholder": "shiphew",
+        "englishMeaning": "10",
+        "englishMeaningPlaceholder": "10",
+        "phonetic": "",
+        "phoneticPlaceholder": "",
+        "reviewStatus": "needs_review"
+      }
+    ]
+  },
+  {
+    "id": "cat-colors",
+    "categoryKhasi": "Ki Rong",
+    "categoryEnglish": "Colors",
+    "iconName": "Palette",
+    "items": []
+  }
+]

@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-ryndia: #FAF9F6;
+  --color-ryndia-border: #E8E2D5;
+  --color-charcoal: #1A1A1A;
+  --color-muga: #DAA520;
+  --color-ceremonial: #B22222;
+  --color-paila: #E97451;
+}
+
+html.dark {
+  --color-ryndia: #181818;
+  --color-ryndia-border: #2D2D2D;
+  --color-charcoal: #FAF9F6;
+  --color-muga: #DAA520;
+  --color-ceremonial: #B22222;
+  --color-paila: #E97451;
+  color-scheme: dark;
+}
+
+@layer base {
+  * {
+    border-color: var(--color-ryndia-border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    background-color: #FAF9F6;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  html.dark {
+    background-color: #121212;
+  }
+
+  body {
+    background-color: #FAF9F6;
+    color: #1A1A1A;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  html.dark body {
+    background-color: #121212;
+    color: #FAF9F6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* =========================================================================
+   Dark Theme (Shillong Night) Invariant Overrides
+   Maintains the authentic Khasi palette (Muga Gold, Ceremonial Red, Paila Coral)
+   while inverting ivory canvases to deep midnight charcoal.
+   ========================================================================= */
+
+html.dark .bg-\[\#FAF9F6\],
+html.dark [class*="bg-[#FAF9F6]"] {
+  background-color: #1A1A1A !important;
+}
+
+html.dark .bg-white,
+html.dark [class*="bg-white/"] {
+  background-color: #242424 !important;
+}
+
+html.dark .border-\[\#E8E2D5\],
+html.dark [class*="border-[#E8E2D5]"] {
+  border-color: #333333 !important;
+}
+
+html.dark .divide-\[\#E8E2D5\] > :not([hidden]) ~ :not([hidden]) {
+  border-color: #333333 !important;
+}
+
+html.dark .text-\[\#1A1A1A\] {
+  color: #FAF9F6 !important;
+}
+
+html.dark .text-\[\#1A1A1A\]\/85,
+html.dark .text-\[\#1A1A1A\]\/80,
+html.dark .text-\[\#1A1A1A\]\/75,
+html.dark .text-\[\#1A1A1A\]\/70 {
+  color: rgba(250, 249, 246, 0.8) !important;
+}
+
+html.dark .text-\[\#1A1A1A\]\/60,
+html.dark .text-\[\#1A1A1A\]\/50 {
+  color: rgba(250, 249, 246, 0.6) !important;
+}
+
+html.dark .text-\[\#1A1A1A\]\/40 {
+  color: rgba(250, 249, 246, 0.4) !important;
+}
+
+html.dark header {
+  background-color: rgba(20, 20, 20, 0.95) !important;
+  border-color: #2E2E2E !important;
+}
+
+html.dark nav[aria-label="Mobile Navigation"] {
+  background-color: rgba(20, 20, 20, 0.96) !important;
+  border-color: #2E2E2E !important;
+}
+
+html.dark input,
+html.dark textarea,
+html.dark select {
+  background-color: #242424 !important;
+  color: #FAF9F6 !important;
+  border-color: #383838 !important;
+}
+
+html.dark input::placeholder,
+html.dark textarea::placeholder {
+  color: rgba(250, 249, 246, 0.35) !important;
+}
+
+html.dark thead {
+  background-color: #222222 !important;
+  color: #FAF9F6 !important;
+  border-color: #333333 !important;
+}
+
+html.dark tbody {
+  background-color: #1A1A1A !important;
+}
+
+html.dark tr:hover {
+  background-color: #222222 !important;
+}
+
+/* Subtle traditional Eri silk grain / weave texture */
+.silk-weave-pattern {
+  background-color: #FAF9F6;
+  background-image: radial-gradient(#DAA520 0.5px, transparent 0.5px), radial-gradient(#E8E2D5 0.5px, #FAF9F6 0.5px);
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px;
+  background-opacity: 0.15;
+}
+
+html.dark .silk-weave-pattern {
+  background-color: #121212;
+  background-image: radial-gradient(#DAA520 0.5px, transparent 0.5px), radial-gradient(#333333 0.5px, #121212 0.5px);
+}
+
+/* Custom scrollbar matching Muga Gold & Ryndia ivory */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF9F6;
+}
+html.dark ::-webkit-scrollbar-track {
+  background: #121212;
+}
+::-webkit-scrollbar-thumb {
+  background: #E8E2D5;
+  border-radius: 4px;
+}
+html.dark ::-webkit-scrollbar-thumb {
+  background: #333333;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #DAA520;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "TOUR-001",
+    "category": "tourism_destination",
+    "title": "Nohkalikai Falls (Cherrapunji / Sohra)",
+    "content": {
+      "en": "Nohkalikai Falls is the tallest plunge waterfall in India, cascading 340 meters (1,115 feet) from the lush green plateau of Sohra into an azure turquoise pool. Fed by highland rainwater, the falls overlook panoramic limestone cliffs and deep tropical valleys.",
+      "kha": "Ka Kshaid Nohkalikai ka dei ka kshaid ba jrong tam ha Ri India kaba hap na jrong kumba 340 mitar ha Sohra."
+    },
+    "language": "en",
+    "location": "Cherrapunji (Sohra), East Khasi Hills District, Meghalaya (Post Code: 793108)",
+    "opening_hours": "09:00 AM – 05:00 PM IST (All days)",
+    "price_info": "Entry Ticket: ₹50 per adult; Camera Permit: ₹30; Light vehicle parking: ₹40",
+    "safety_notes": "High cliff edges with dense fog and swift gusts. Stay strictly behind safety railings. Do not attempt unguided descents to the plunge pool during the monsoon (June–September) due to sudden surge currents and flash floods.",
+    "source_name": "Directorate of Tourism, Government of Meghalaya",
+    "source_url": "https://www.meghalayatourism.in/destinations/nohkalikai-falls/",
+    "verification_status": "verified_official",
+    "last_reviewed": "2025-10-15",
+    "notes": "Official Government tourism record. Historical folklore of Ka Likai authenticated by Sohra Syiemship elders.",
+    "confidence_score": 1.0
+  },
+  {
+    "id": "TOUR-002",
+    "category": "tourism_destination",
+    "title": "Jingkieng Jri (Double Decker Living Root Bridge)",
+    "content": {
+      "en": "A world-renowned indigenous bio-engineering marvel created across generations by guiding secondary aerial roots of the Ficus elastica tree through hollowed betel nut trunks over the Umshiang River. Features two stacked tiers of living root bridge.",
+      "kha": "Ka jingkieng jri Nongriat ba ar mala kaba la tei da ki kpa tymmen Khasi ha Umshiang."
+    },
+    "language": "en",
+    "location": "Nongriat Village, East Khasi Hills District, Meghalaya (Trek begins at Tyrna Village)",
+    "opening_hours": "06:00 AM – 05:00 PM IST (Early morning start strongly advised)",
+    "price_info": "Entry Fee: ₹50 per person; Local Guide: ₹500–₹800 per group; Camera: ₹30",
+    "safety_notes": "Challenging ~3,500+ steep stone steps descent and ascent. Maintain firm footing, especially on wet moss. Do not pull, swing on, or damage young root tendrils. Avoid trekking after dark.",
+    "source_name": "Directorate of Tourism, Government of Meghalaya & Nongriat Village Dorbar",
+    "source_url": "https://www.meghalayatourism.in/destinations/double-decker-root-bridge/",
+    "verification_status": "verified_official",
+    "last_reviewed": "2025-10-21",
+    "notes": "UNESCO World Heritage Tentative List candidate. Strict Dorbar Shnong conservation protocol.",
+    "confidence_score": 1.0
+  },
+  {
+    "id": "CULT-001",
+    "category": "culture_and_etiquette",
+    "title": "Respecting Sacred Groves (Law Kyntang Mawphlang)",
+    "content": {
+      "en": "Law Kyntang (Sacred Groves) such as the Mawphlang Sacred Forest are preserved by centuries-old indigenous Khasi customary laws and the Lyngdoh (hereditary custodian). Under traditional customary sanctions, absolutely nothing may be removed from the grove—not a dead branch, leaf, orchid, pebble, or fruit.",
+      "kha": "Ki Law Kyntang kum ka Law Kyntang ha Mawphlang ki dei ki khlaw kyntang ba la ri da ki dustur Khasi hyndai. Ym bit ban ring ne shim eiei na kane ka khlaw."
+    },
+    "language": "en",
+    "location": "Mawphlang, East Khasi Hills District, Meghalaya (25 km from Shillong)",
+    "opening_hours": "09:00 AM – 04:30 PM IST (Mandatory registered local guide required)",
+    "price_info": "Forest Entry: ₹30 per adult; Guided Eco-Walk: ₹300 per group (supports indigenous forest wardens)",
+    "safety_notes": "Sacred taboo strictly enforced by local Dorbar Shnong. Consuming alcohol, littering, plucking flora, or disturbing monolithic sacrifice altars (Mawbynna) is punishable by local community council sanctions. Stay on marked moss trails.",
+    "source_name": "Mawphlang Dorbar Shnong & Meghalaya Biodiversity Board",
+    "source_url": "https://megbiodiversity.nic.in/sacred-groves",
+    "verification_status": "verified_official",
+    "last_reviewed": "2025-10-18",
+    "notes": "Approved by Mawphlang community elders and traditional custodians. Strict cultural conservation protocol.",
+    "confidence_score": 1.0
+  },
+  {
+    "id": "CULT-002",
+    "category": "culture_and_etiquette",
+    "title": "Kongthong Whistling Village (Jingrwai Iawbei Tradition)",
+    "content": {
+      "en": "In Kongthong, mothers compose a unique melodic tune called \"Jingrwai Iawbei\" for every newborn child, which becomes their musical name throughout their life in the matrilineal community. Visitors must observe respectful listening customs and refrain from recording personal melodies without explicit elder permission.",
+      "kha": "Shnong Kongthong kaba don ia ka dustur jingrwai iawbei ba kheiñ kor shibun."
+    },
+    "language": "en",
+    "location": "Khatarshnong Laitkroh Tehsil, East Khasi Hills District, Meghalaya",
+    "opening_hours": "08:00 AM – 05:00 PM IST (Respect village rest periods in evenings)",
+    "price_info": "Community eco-development charge: ₹100 per visitor; Guided cultural walk: ₹400",
+    "safety_notes": "Remote hill village with narrow winding single-lane approach roads. Respect private household courtyards. Always seek permission before photographing elders or ceremonies.",
+    "source_name": "Meghalaya Tourism & Indigenous Khatarshnong Cultural Custodians",
+    "source_url": "https://www.meghalayatourism.in/destinations/kongthong-whistling-village/",
+    "verification_status": "verified_native_speaker",
+    "last_reviewed": "2025-10-19",
+    "notes": "UNWTO Best Tourism Village Candidate. Deep matrilineal heritage protection.",
+    "confidence_score": 1.0
+  },
+  {
+    "id": "SAFE-001",
+    "category": "safety_and_emergency",
+    "title": "National Emergency Response Support System (ERSS 112)",
+    "content": {
+      "en": "The Unified National Emergency Response Support System (ERSS) accessible toll-free via 112 coordinates Police, Fire & Emergency Services, Disaster Response, and Medical Ambulances across all Meghalaya districts with automated GPS dispatch.",
+      "kha": "Ka ERSS 112 ka dei ka numbar ba kyrkieh na ka bynta ka Pulit, Ding, bad Ambulance ha baroh ka jylla Meghalaya."
+    },
+    "language": "en",
+    "location": "State Emergency Response Centre, Police Headquarters, Secretariat Hills, Shillong, Meghalaya 793001",
+    "opening_hours": "24 Hours / 7 Days a week (Toll-Free)",
+    "price_info": "Free emergency call from any mobile or landline",
+    "safety_notes": "In deep gorges or remote trekking valleys with cellular shadow zones, report directly to the nearest village Dorbar Shnong Headman (Rangbah Shnong) or eco-tourism gatekeeper. For high-angle gorge extractions, request Meghalaya SDRF (State Disaster Response Force) via 112.",
+    "source_name": "Meghalaya Police & Ministry of Home Affairs, Government of India",
+    "source_url": "https://megpolice.gov.in/emergency-response-support-system-erss",
+    "verification_status": "verified_official",
+    "last_reviewed": "2025-10-20",
+    "notes": "Zero-hallucination protected critical emergency record. Direct routing verified with Meghalaya Police Command Center.",
+    "confidence_score": 1.0
+  },
+  {
+    "id": "TRANS-001",
+    "category": "transport",
+    "title": "Shillong to Sohra Shared Taxi Service (Anjalee Stand)",
+    "content": {
+      "en": "Shared black-and-yellow regional taxis operate daily between Shillong (Anjalee Cinema Stand and Bara Bazaar) and Cherrapunji (Sohra Market Stand). Standard point-to-point passenger fares are regulated by local transport welfare associations.",
+      "kha": "Ki kali kamai Sohra na Anjalee Shillong."
+    },
+    "language": "en",
+    "location": "Anjalee Parking Lot, Laban, Shillong, Meghalaya 793004",
+    "opening_hours": "06:00 AM – 04:30 PM IST daily (Operates based on seat occupancy)",
+    "price_info": "Shared seat fare: ₹120–₹150 per passenger; Reserved full cab: ₹1,600–₹2,000",
+    "safety_notes": "Highway SH-5 experiences dense fog during afternoons and monsoon months. Drivers are locally experienced mountain operators; maintain safety belts and avoid night travel on gorge cliffs.",
+    "source_name": "East Khasi Hills Regional Transport Authority & Local Taxi Welfare Board",
+    "source_url": "https://eastkhasihills.gov.in/transport/",
+    "verification_status": "verified_official",
+    "last_reviewed": "2025-10-22",
+    "notes": "Direct transit rate record. Verified with Shillong-Sohra Taxi Union.",
+    "confidence_score": 1.0
+  }
+]

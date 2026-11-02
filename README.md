@@ -1,5 +1,19 @@
-## **Khasi Companion AI** 
-A dual-model, bilingual AI assistant built specifically for the **Khasi language** (spoken primarily in Meghalaya, Northeast India) and English. 
+# 🌲 Khasi Companion AI (Kpa AI)
+
+> **A Neural & Semantic AI Platform for Khasi Language Translation, Cultural Exploration, and Guided Learning.**
+
+[![React 19](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-Fast_Bundler-646CFF.svg)](https://vitejs.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)](https://fastapi.tiangolo.com/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C.svg)](https://pytorch.org/)
+[![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)](https://huggingface.co/)
+
+---
+
+## 📖 Overview
+
+**Khasi Companion AI** is a dual-model, bilingual AI assistant built specifically for the **Khasi language** (spoken primarily in Meghalaya, Northeast India) and English. 
 
 Traditional machine translation engines frequently struggle with low-resource indigenous languages like Khasi. Khasi Companion solves this with a **dual-model neural & hybrid semantic architecture** combined with a **zero-hallucination verification pipeline**, emergency safety checks, and an interactive learning hub.
 
